@@ -1,1 +1,1 @@
-cout << "Postavte 100 ballov pliz" << endl;
+cout << "Postavte 100 ballov plizii" << endl;
